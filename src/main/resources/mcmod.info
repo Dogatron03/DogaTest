@@ -1,0 +1,16 @@
+[
+{
+  "modid": "dogatest",
+  "name": "DogaTest",
+  "description": "DogaTest.",
+  "version": "1.0",
+  "mcversion": "1.12.1",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Dogatron03"],
+  "credits": "CJMinecraft for making YouTube modding tutorials!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

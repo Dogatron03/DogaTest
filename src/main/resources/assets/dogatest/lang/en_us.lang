@@ -1,0 +1,6 @@
+item.struc_wand.name=Structure Wand
+
+commands.sload.usage=/sload <structure name>
+commands.sload.player=You need to be a player to run this command!
+commands.sload.fileNotExist=That file doesn't exist!
+commands.sload.success=Successfully loaded the structure!
